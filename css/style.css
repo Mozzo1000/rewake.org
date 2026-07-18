@@ -102,6 +102,8 @@ main,
 }
 
 .project-card {
+  display: flex;
+  flex-direction: column;
   border: 1px solid var(--border);
   border-radius: 8px;
   padding: 1.5rem;
@@ -127,6 +129,7 @@ main,
   gap: 1rem;
   align-items: center;
   font-size: 0.9rem;
+  margin-top: auto;
 }
 
 .visit-link {
