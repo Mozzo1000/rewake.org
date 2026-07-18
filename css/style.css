@@ -43,7 +43,7 @@ main,
 }
 
 .wordmark {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: 700;
   color: var(--fg);
   letter-spacing: -0.02em;
@@ -51,7 +51,9 @@ main,
 
 .site-nav a {
   color: var(--muted);
-  font-size: 0.9rem;
+  font-size: 1rem;
+  padding: 0.5rem 0;
+  display: inline-block;
 }
 
 .site-nav a[aria-current="page"] {
@@ -64,7 +66,7 @@ main,
 }
 
 .hero {
-  padding: 3rem 0 2.5rem;
+  padding: 1.5rem 0 2.5rem;
 }
 
 .hero h1 {
