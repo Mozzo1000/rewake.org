@@ -80,9 +80,9 @@ This repo is just the landing page and about page; each tool lives in its own re
   Defined as CSS custom properties in `css/style.css`
 - **Typography:** system font stack (no web fonts), keeps pages fast and dependency-free.
 - **Favicon:** the re:wake colon, rendered as two accent-colored dots on a light rounded tile (`assets/favicon.svg`) — the brand mark distilled to its simplest form, legible even at 16×16.
-- **Badge:** `assets/badge.svg` — an "a project of re:wake" badge for individual project READMEs to link back here.
+- **Badge:** `assets/badge.svg` (`assets/badge-dark.svg` for dark backgrounds) — an "a re:wake project" badge for individual project READMEs to link back here.
 
-  ![part of: re:wake](assets/badge.svg)
+  ![a re:wake project](assets/badge.svg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

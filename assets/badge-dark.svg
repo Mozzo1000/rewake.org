@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="230" height="56" viewBox="0 0 230 56" role="img" aria-label="a re:wake project">
-  <rect x="2.5" y="2.5" width="225" height="51" rx="18" fill="#fafaf9" stroke="#1c1c1a" stroke-width="3"/>
-  <rect x="16" y="11" width="34" height="34" rx="7" fill="#fafaf9" stroke="#1c1c1a" stroke-width="2.5"/>
+  <rect x="2.5" y="2.5" width="225" height="51" rx="18" fill="#1c1c1a" stroke="#fafaf9" stroke-width="3"/>
+  <rect x="16" y="11" width="34" height="34" rx="7" fill="#1c1c1a" stroke="#fafaf9" stroke-width="2.5"/>
   <circle cx="33" cy="23.8" r="3.2" fill="#d4552b"/>
   <circle cx="33" cy="33.3" r="3.2" fill="#d4552b"/>
-  <text x="63" y="34" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1c1c1a">
+  <text x="63" y="34" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#fafaf9">
     <tspan letter-spacing="0.4">a</tspan><tspan dx="-1"> </tspan><tspan font-weight="800">re</tspan><tspan font-weight="800" fill="#d4552b">:</tspan><tspan font-weight="800">wake</tspan><tspan dx="-1" letter-spacing="0.4"> project</tspan>
   </text>
 </svg>
