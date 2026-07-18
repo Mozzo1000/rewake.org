@@ -14,9 +14,6 @@
     <a href="https://rewake.org"><strong>Visit the site »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Mozzo1000/rewake.org/issues/new">Report an issue</a>
-    &middot;
-    <a href="https://github.com/Mozzo1000/rewake.org/issues/new">Suggest a project</a>
   </p>
 </div>
 
@@ -125,14 +122,6 @@ If the project has its own repo, drop the [badge](#branding) in its README to li
 ## Deployment
 
 GitHub Pages is configured to serve from the root of the `main` branch, using the custom domain in `CNAME` (`rewake.org`). Make sure your DNS points at GitHub Pages if it doesn't already.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contact
-
-Andreas Backström - [andreasbackstrom.se](https://andreasbackstrom.se) &middot; [@Mozzo1000](https://github.com/Mozzo1000)
-
-Project Link: [https://github.com/Mozzo1000/rewake.org](https://github.com/Mozzo1000/rewake.org)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
